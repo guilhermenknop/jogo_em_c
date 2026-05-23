@@ -1,0 +1,1 @@
+extern char cenario[20][100];

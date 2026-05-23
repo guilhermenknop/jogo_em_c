@@ -1,0 +1,1 @@
+extern char caixadetexto[4][20];
