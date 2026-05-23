@@ -5,7 +5,7 @@ Simple terminal game made in C using ncurses.
 # Controls
 
 ```text
-    ↑
+  ↑
 ← ↓ →
 ```
 
